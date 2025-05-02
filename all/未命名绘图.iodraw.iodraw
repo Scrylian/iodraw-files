@@ -4,16 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9hGitPMC6Xlq-D8oRY9f-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9hGitPMC6Xlq-D8oRY9f-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="285.38099888392867" y="449.3333217075892" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9hGitPMC6Xlq-D8oRY9f-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9hGitPMC6Xlq-D8oRY9f-1" value="网络视频播放器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="406" width="136" height="19" as="geometry" />
         </mxCell>
         <mxCell id="9hGitPMC6Xlq-D8oRY9f-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
-          <mxGeometry x="457" y="486" width="120" height="60" as="geometry" />
+          <mxGeometry x="369" y="483" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
